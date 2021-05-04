@@ -12,6 +12,12 @@
     "type": "git",
     "url": "git+https://github.com/JeremiahCM/CISE_SEEDS.git"
   },
+  "keywords": [
+    "Nodejs",
+    "Mongodb",
+    "CSV-file",
+    "json2csv"
+  ],
   "author": "CISE Team 33",
   "license": "MIT",
   "bugs": {
@@ -22,8 +28,12 @@
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
     "config": "^3.3.6",
+    "cors": "^2.8.5",
     "express": "^4.17.1",
+    "json2csv": "^5.0.6",
+    "mongodb": "^3.6.6",
     "mongoose": "^5.12.5",
+    "react-table": "^7.6.3",
     "validation": "0.0.1"
   },
   "devDependencies": {
